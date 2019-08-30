@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D9FB7</color>
+    <color name="colorPrimaryDark">#217B87</color>
+    <color name="colorAccent">#F4E146</color>
+    <color name="colorIcon">#FFFFFF</color>
+</resources>
